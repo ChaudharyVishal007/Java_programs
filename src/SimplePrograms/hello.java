@@ -13,7 +13,7 @@ public class hello {
         System.out.println(message);
         
         // Write the message to a file named "output.txt"
-        try (FileWriter fileWriter = new FileWriter("hello world.txt")) {
+        try (FileWriter fileWriter = new FileWriter(" hello_output.txt")) {
             fileWriter.write(message);
             System.out.println("Output has been successfully written to output.txt");
         } 
