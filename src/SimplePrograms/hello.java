@@ -7,7 +7,7 @@ public class hello {
 
     public static void main(String[] args) throws IOException {
         // The output message to be saved in the file
-        String message = "Hello world welcome to Jenkins..........run2 ---> vishal";
+        String message = "Hello world welcome to Jenkins..........run2 ---> vishal-->>>>>>>>>>chocopie";
 
         // Display the message on the console
         System.out.println(message);
