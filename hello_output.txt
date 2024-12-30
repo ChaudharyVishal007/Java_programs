@@ -1,2 +1,2 @@
-Hello world welcome to Jenkins..........run2 ---> vishal-->>>>>>>>>>chocopie--manoj---final_update---all done
+Hello world welcome to Jenkins..........
 Output has been successfully written to output.txt
